@@ -11,6 +11,8 @@ This Code Pattern is a demonstration of Avatar based Chatbot, an android mobile 
 
 When the reader has completed this Code Pattern, they will understand how to:
 
+https://github.com/AffineR/AyudaTeam/blob/master/solution-starter-kit-cooperation-2020.png
+
 Create and use Avatar using a Mobile Application.
 Integrate Watson Assistant and Python Flask application using Webhooks.
 Customize based on the personal requirements.
