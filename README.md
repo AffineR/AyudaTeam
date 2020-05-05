@@ -6,6 +6,9 @@ AR and chatbots are perhaps two of the most promising avenues while creating new
 
 This Code Pattern is a demonstration of Avatar based Chatbot, an android mobile Chatbot Application with AI and AR capabilities which dynamically fetches the information using APIs in Watson Assistant via Webhooks(Cloud Functions).
 
+
+
+
 When the reader has completed this Code Pattern, they will understand how to:
 
 Create and use Avatar using a Mobile Application.
