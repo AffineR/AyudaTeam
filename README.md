@@ -10,6 +10,9 @@ When the reader has completed this Code Pattern, they will understand how to:
 
 
 Create and use Avatar using a Mobile Application.
+
 Integrate Watson Assistant and Python Flask application using Webhooks.
+
 Customize based on the personal requirements.
+
 Create a dynamic real time chatbot.
