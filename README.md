@@ -19,7 +19,7 @@ When the reader has completed this Code Pattern, they will understand how to:
 * Create a dynamic real time chatbot.
 # AyudaTeam Member
 - Peter
--  Ragvendra
--  Mahabir
--  David
+- Raghavendra
+- Mahabir
+- David
 - Rishab
