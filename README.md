@@ -1,6 +1,6 @@
 # AyudaTeam
 
-Ayuda is designed for  creeating Standards & Sharing Knowledge to support a range of DCT and public health use cases. Currently the main build uses GPS for location tracking. Our roadmap includes adding support for other location and proximity technologies, symptom tracking, and communication with PHAs.
+Ayuda is designed for  creating Standards & Sharing Knowledge to support a range of DCT and public health use cases. Currently the main build uses GPS for location tracking. Our roadmap includes adding support for other location and proximity technologies, symptom tracking, and communication with PHAs.
 
 
 
