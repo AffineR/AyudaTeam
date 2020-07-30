@@ -12,6 +12,11 @@ This Code Pattern is a demonstration of Avatar based Chatbot, an android mobile 
 
 * Here API used 
 
+GPS+ Digital Contact Tracing
+
+Enhanced manual contact tracing tools
+Hot spot exposure notifications
+
 
 
 When the reader has completed this Code Pattern, they will understand how to:
