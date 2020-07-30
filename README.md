@@ -10,6 +10,10 @@ AR and chatbots are perhaps two of the most promising avenues while creating new
 
 This Code Pattern is a demonstration of Avatar based Chatbot, an android mobile Chatbot Application with AI and AR capabilities which dynamically fetches the information using APIs in Watson Assistant via Webhooks(Cloud Functions).
 
+* Here API used 
+
+
+
 When the reader has completed this Code Pattern, they will understand how to:
 
 
@@ -17,9 +21,10 @@ When the reader has completed this Code Pattern, they will understand how to:
 * Integrate Watson Assistant and Python Flask application using Webhooks.
 * Customize based on the personal requirements.
 * Create a dynamic real time chatbot.
+
 # AyudaTeam Member
 - Peter
-- Raghavendra
+- Raghavendra Kiran
 - Mahabir
 - David
 - Rishab
