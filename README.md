@@ -28,3 +28,9 @@ When the reader has completed this Code Pattern, they will understand how to:
 - Mahabir
 - David
 - Rishab
+
+
+End-to-End System
+Ayuda is designed to work with Safe Places, a tool for contact tracing teams to work with location data in the course of contact tracing interviews and to publish points of concern. Without having to sharing their own location history, a Ayuda user can download the points of concern from their PHA to identify if they have had risk of an exposure.
+
+
