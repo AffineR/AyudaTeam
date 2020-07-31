@@ -5,6 +5,8 @@ import reverse_geocoder as rg
 from flask_cors import CORS
 import pandas as pd
 import os
+import herepy
+
 from flask import Flask, jsonify, json, request
 from geopy.geocoders import Nominatim
 
@@ -29,7 +31,12 @@ def reverseGeocode(coordinates):
 #https://developer.here.com/documentation/geocoder/dev_guide/topics/example-location-search-landmark.html
 #https://developer.here.com/documentation/geocoder/dev_guide/topics/resource-reverse-geocode.html
 #https://developer.here.com/documentation/authentication/dev_guide/topics/api-key-credentials.html
+#https://places.sit.ls.hereapi.com/places/v1/discover/search
+
 def get_here_restaurants(latitude, longitude):
+    
+    placesApi = herepy.PlacesApi('api_key')
+
     listofRestaurantsnearby = []
     api_key = '#use_key_from_bitwarden.com_or_generate_new_key'
     #&radius=500&sort=real_distance&order=asc&start=0
