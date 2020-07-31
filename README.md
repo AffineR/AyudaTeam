@@ -2,6 +2,10 @@
 
 Ayuda is designed for  creating Standards & Sharing Knowledge to support a range of DCT and public health use cases. Currently the main build uses GPS for location tracking. Our roadmap includes adding support for other location and proximity technologies, symptom tracking, and communication with PHAs.
 
+Move Faster to Contain COVID-19
+Ayuda is committed to partnering. We can collaborate with you on technology selection, program design, project management, measurement, and evaluation. In addition, we can support,leverage your technology implementation with Ayuda project.
+
+
 
 
 Project deals with State of the art Technology chatbots need an upgrade, and the good news is they’re getting one. Technologies like artificial intelligence (AI), augmented reality (AR), virtual reality (VR) and more robust network connectivity are opening up a new dimension for today’s traditional robotic, web-based chatbots. Chatbots integrated with these technologies can leverage the support 5G technology have the ability to advance businesses as the main motive of bottom line is to lending hand of human connection.
@@ -11,6 +15,7 @@ AR and chatbots are perhaps two of the most promising avenues while creating new
 This Code Pattern is a demonstration of Avatar based Chatbot, an android mobile Chatbot Application with AI and AR capabilities which dynamically fetches the information using APIs in Watson Assistant via Webhooks(Cloud Functions).
 
 * Here API used 
+
 
 GPS+ Digital Tracing
 
