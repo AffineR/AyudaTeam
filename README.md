@@ -2,6 +2,10 @@
 
 Ayuda is designed for  creating Standards & Sharing Knowledge to support a range of DCT and public health use cases. Currently the main build uses GPS for location tracking. Our roadmap includes adding support for other location and proximity technologies, symptom tracking, and communication with PHAs.
 
+The fastest way to address the global public health and economic crisis is for public and private sector groups to work together. We’ve built a technology platform that flexibly meets both needs and, by working together, helps protect everyone.
+
+
+
 Move Faster to Contain COVID-19
 Ayuda is committed to partnering. We can collaborate with you on technology selection, program design, project management, measurement, and evaluation. In addition, we can support,leverage your technology implementation with Ayuda project.
 
