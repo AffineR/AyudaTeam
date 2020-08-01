@@ -1,5 +1,9 @@
 # AyudaTeam
 
+The objective of Ayuda is as Everyday new information is being gathered about the novel Coronavirus COVID 19. Keeping track of new developments and sending out instant notifications to all departments in the hospitals is an essential activity. Poor communication, undirected updates, and delay in providing valuable information should not cost more lives due to this virus. Hospitals should deploy emergency notification software to spread accurate information and keep their staff and patients informed and safe. 
+
+
+
 THE AYUDA SOLUTION is organized into two CHAPTERS:  Chapter One is a PRIME RESPONDER solution in MULTIPLE LANGUAGES to deliver a CONVERSATIONAL AVATAR in the NATIVE LANGUAGE of the local COMMUNITY where it is deployed. CHAPTER TWO is about PROTECTING the identity of the user of the PRIME RESPONDER by the  IDENTITY and ASSET TRANSFER protections of a BLOCKCHAIN. 
 
 We addressed the following problems with current courageous efforts to tackle COVID19
