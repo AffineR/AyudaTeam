@@ -16,6 +16,8 @@ CORS(app)
 
 global entity_type,entity_id
 
+
+
 @app.route("/reverse", methods=["GET"])
 def reverseGeocode(coordinates):
     result = rg.search(coordinates)
@@ -26,13 +28,14 @@ def reverseGeocode(coordinates):
             if(key=='name'):
                 location = value
     return location
-#Developer notes: 
+#Developer notes: .format(location)
 #https://developer.here.com/documentation/geocoder/dev_guide/topics/resource-type-response-geocode.html
 #https://developer.here.com/documentation/geocoder/dev_guide/topics/example-location-search-landmark.html
 #https://developer.here.com/documentation/geocoder/dev_guide/topics/resource-reverse-geocode.html
 #https://developer.here.com/documentation/authentication/dev_guide/topics/api-key-credentials.html
 #https://places.sit.ls.hereapi.com/places/v1/discover/search
 
+url = "https://api.openweathermap.org/data/2.5/weather?q=Africa&appid=f0200845a1a1c60ec4f0fe9615bfbf3a".format(location)
 def get_here_restaurants(latitude, longitude):
     
     placesApi = herepy.PlacesApi('api_key')
